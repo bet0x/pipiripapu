@@ -1,8 +1,8 @@
 #!/usr/bin/env perl
 #
-# Coydogsoftware.net's Repository:
+# Repository:
 #
-#          https://repo.coydogsoftware.net/coydog/rxtools/tree/master
+#          https://github.com/bet0x/pipiripapu/
 #
 # TODO: learn perl.
 # TODO TODO TODO: Verify that we are scanning every file. Got one
